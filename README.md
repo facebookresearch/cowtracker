@@ -1,4 +1,4 @@
-# CoWTRacker
+# CoWTracker
 
 CoWTracker is a high-quality dense point tracker. It tracks all image points jointly without computing feature correlations, but by means of a warping module.
 
